@@ -1,4 +1,4 @@
-🤖  CodePlay – Backend 
+## 🤖 CodePlay – Backend 
 
 **CodePlay** is an educational coding platform for children, designed to gamify learning through interactive drag-and-drop programming challenges. This backend powers the core logic, handles user progress, quiz systems, and manages game state and data storage.
 
